@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<testsuite name="checkout" tests="2">
+  <testcase classname="CheckoutTest" name="test_charges_card"/>
+  <testcase classname="CheckoutTest" name="test_timeout"><failure>timeout</failure></testcase>
+</testsuite>
